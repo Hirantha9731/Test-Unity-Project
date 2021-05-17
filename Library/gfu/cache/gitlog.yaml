@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-05-17T14:33:34.011+05:30
+  initializedAtString: 2021-05-17T12:45:18.196+05:30
+  log:
+  - commitID: e012ae01e2d30376e6d799a7c4be438013f83a28
+    mergeA: 
+    mergeB: 
+    authorName: Hirantha Waas
+    authorEmail: w1715753@my.westminster.ac.uk
+    commitEmail: w1715753@my.westminster.ac.uk
+    commitName: Hirantha Waas
+    summary: Initial commit
+    description: 
+    timeString: 2021-05-17T12:45:17.000+05:30
+    commitTimeString: 2021-05-17T12:45:17.000+05:30
+    changes:
+    - path: .gitattributes
+      fullPath: D:\Intern Stuff\Unity Projects\Test - 3D - game\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: D:\Intern Stuff\Unity Projects\Test - 3D - game\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: D:\Intern Stuff\Unity Projects\Test - 3D - game\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
